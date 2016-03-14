@@ -1,6 +1,6 @@
 # Firefox SQLite Manager installation
 
-## Step 1. Launch Firefox
+## Step 1. Launch Firefox (or install and launch)
 
 ## Step 2. Click on Tools, Add-ons
 
